@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "607839687329",
+    "firebase_url": "https://agrotente-1530293368447.firebaseio.com",
+    "project_id": "agrotente-1530293368447",
+    "storage_bucket": "agrotente-1530293368447.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607839687329:android:feacb1cee999541b",
+        "android_client_info": {
+          "package_name": "com.example.carlos.agrotente_desa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607839687329-7fve2687dhf87q9vodjcv8ogg4u5r87c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeQOkA4o4vXFlzxz4uwz6RcLUynfxtXpA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
